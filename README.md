@@ -1,10 +1,12 @@
 # Ghosts-Within - An Interactive Fiction Game made with TADS 3
 
+
 # Purpose
 This IF game was created as part for my Diploma thesis for the Department of Electrical and Computer Engineering at the University of Patras, Greece! 
 
+
 # Abstract
-The term interactive fiction (IF for short) is at the intersection of two seemingly unrelated subjects: programming and literature. The result is a novel, which interacts with the reader in such a way that the main plot is being progressed directly or indirectly by their actions. 
+The term interactive fiction (IF) stands at the intersection of two seemingly unrelated subjects: programming and literature. It refers to a novel, with which the reader interacts in such a way that the main plot is being progressed directly or indirectly by their actions. 
 The aim of this diploma thesis is to create and evaluate an interactive fiction game using modern authoring tools, with the ultimate goal of submitting it to the annual global competition called "The Interactive Fiction Competition". The game was constructed using TADS 3, an authoring system suitable for developers, who fancy programming and after the completion of its first phase of beta-testing it was thoroughly evaluated by a carefully selected team through the Heuristics Evaluation for Playability Method (HEP).
 
 
