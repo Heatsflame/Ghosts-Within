@@ -1,5 +1,5 @@
 # Ghosts-Within
-A repository for the IF game I created for my thesis!
+This IF game was created as part for my Diploma thesis for the Department of Electrical and Computer Engineering at the University of Patras, Greece! 
 
 Unfortunately, you are out of luck! 
 The game cannot and will not be uploaded here, 
